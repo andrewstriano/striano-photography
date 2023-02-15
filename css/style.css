@@ -15,7 +15,7 @@ body {
   background-color: rgb(3, 88, 56);
 }
 .left {
-  background-image: url("../images/810_1948.jpg");
+  background-image: url("/images/810_1948.jpg");
   height: 100%;
   background-size: cover;
   border-top-left-radius: 10px;
